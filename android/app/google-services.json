@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "94281198728",
+    "project_id": "lab123-7de37",
+    "storage_bucket": "lab123-7de37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94281198728:android:57d358ab064809a571033d",
+        "android_client_info": {
+          "package_name": "com.anonymous.TodoAppvovantuan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriR8IbelM9UkdoiASpIAd3J_sqNxk3NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94281198728:android:645211d32791514071033d",
+        "android_client_info": {
+          "package_name": "com.anonymous.vovantuan_todosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriR8IbelM9UkdoiASpIAd3J_sqNxk3NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94281198728:android:97997cd794c0304871033d",
+        "android_client_info": {
+          "package_name": "com.anonymous.vovantuan_todosapp_ex3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBriR8IbelM9UkdoiASpIAd3J_sqNxk3NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
